@@ -1,4 +1,5 @@
 [submodule "_site"]
 	path = _site
-	url = gradx:www.git
+#	url = github:rpglover64/rpglover64.github.io
+	url = https://github.com/rpglover64/rpglover64.github.io.git
     branch = website
