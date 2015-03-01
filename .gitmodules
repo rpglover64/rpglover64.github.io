@@ -2,4 +2,4 @@
 	path = _site
 #	url = github:rpglover64/rpglover64.github.io
 	url = https://github.com/rpglover64/rpglover64.github.io.git
-    branch = website
+    branch = gh-pages
